@@ -85,6 +85,8 @@ When you enable this action:
     - Personally-Owned Work Profile
   - iOS/iPadOS
   - macOS
+  - Windows 10 and later
+  - Windows 8.1 and later
 
   When this action applies to a device, that device is added to a list of devices in the admin console at **Devices** > **Compliance policies** > **Retire Noncompliant Devices**. The device isn't retired until an admin takes explicit action to retire the device.
 
